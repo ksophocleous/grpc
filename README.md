@@ -6,6 +6,9 @@
 
 Copyright 2015 Google Inc.
 
+#Warning
+This repository is deprecated. Head over to [alfatraining/grpc](https://github.com/alfatraining/grpc) for a more maintained version.
+
 #Documentation
 
 You can find more detailed documentation and examples in the [grpc-common repository](http://github.com/grpc/grpc-common).
